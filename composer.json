@@ -1,5 +1,5 @@
 {
-    "name": "studiobanks/closure-table",
+    "name": "franzose/closure-table",
     "description": "Adjacency List’ed Closure Table database design pattern implementation for Laravel",
     "keywords": ["laravel", "closure table", "database", "adjacency list", "pages", "categories", "hierarchy"],
     "license": "MIT",
